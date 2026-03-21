@@ -39,6 +39,7 @@ requirements:
     - cairo
     - atkmm-1.6
     - gtkmm
+    - zlib
 
     - xeus
     - zeromq

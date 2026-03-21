@@ -63,7 +63,7 @@ requirements:
     - xorg-libxtst                # [linux]
     - libegl-devel                    # [linux]
     - libgl-devel                    # [linux]
-    - xorgproto                          # [linux]
+    - xorg-xorgproto                          # [linux]
 
 outputs:
   - name: cadabra2
